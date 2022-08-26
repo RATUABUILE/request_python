@@ -1,0 +1,12 @@
+{
+    "id": "6008",
+    "parent_exercise_id": null,
+    "name": "keys_w_r_y_o",
+    "slug": "top-row-tg_json__keys_w_r_y_o_json",
+    "sequence_num": 900,
+    "review_type": "manual",
+    "solution": null,
+    "content": "[\"{\\\"value\\\":[{\\\"component\\\":\\\"header\\\",\\\"variant\\\":2,\\\"value\\\":\\\"keys_w_r_y_o_key1\\\"},{\\\"component\\\":\\\"text\\\",\\\"value\\\":\\\"keys_w_r_y_o_key2\\\"},{\\\"component\\\":\\\"banner\\\",\\\"title\\\":\\\"Top Row, keys w, r, y and o\\\",\\\"value\\\":\\\"\\\",\\\"actions\\\":[{\\\"url\\\":\\\"https://merakilearn.org/typing\\\",\\\"label\\\":\\\"Practice Typing\\\",\\\"data\\\":\\\"{\\\\\\\"content\\\\\\\":[\\\\\\\"w\\\\\\\",\\\\\\\"r\\\\\\\",\\\\\\\"y\\\\\\\",\\\\\\\"o\\\\\\\"],\\\\\\\"code\\\\\\\":\\\\\\\"trytyping\\\\\\\"}\\\",\\\"variant\\\":\\\"secondary\\\"}]}]}\"]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/top-row-tg_json/keys_w_r_y_o.json"
+}

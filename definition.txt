@@ -1,0 +1,25 @@
+Request:Python requests are generally used to fetch the content from a particular resource URI.
+The requests module allows you to send HTTP requests using Python. 
+The http request returns a response object with all the response data(content,encoding,status,etc)
+
+API:(Application Programming Interface)is a server that we can use to retrieve and send data using code
+
+HTTP:The http(Hyper Text Transfer Protocol) request are a means of communication between the client and the server
+
+HTTPS:HTTPS (Hypertext Transfer Protocol Secure) is an internet communication protocol
+that protects the integrity and confidentiality of data between the user's computer and the site.
+
+URL:An URL(Uniform Resource Locator) is a unique identifier used to locate a resource on the Internet.
+
+Request Library:The requests library is the de facto standard for making HTTP requests in Python.
+
+Method              	Description
+Delete(url, args)	Sends a DELETE request to the specified url
+Get(url, params, args)	Sends a GET request to the specified url
+Head(url, args)	Sends a HEAD request to the specified url
+Patch(url, data, args)	Sends a PATCH request to the specified url
+Post(url, data, json, args)	Sends a POST request to the specified url
+Put(url, data, args)	Sends a PUT request to the specified url
+Request(method, url, args)	Sends a request of the specified method to the specified url
+
+Why we use request?:Do not have to manually add query string to URLs,or form encode post data
